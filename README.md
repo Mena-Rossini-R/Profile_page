@@ -42,6 +42,44 @@ Do not use CSS or JavaScript.
 
 Focus on semantic HTML and readability.
 ## HTML Code:
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Profile</title>
+    </head>
+    <body>
+        <section>
+            <h1>Mena Rossini R</h1>
+            <h2>Student</h2>
+            <h3>Web Developer</h3>
+        </section>
+    
+        <hr>
+    
+        <section>
+            <div>
+                <img src="profile.jpg" alt="Profile picture of John Doe" width="200" height="200">
+            </div>
+        </section>
+    
+        <hr>
+    
+        <section>
+            <article>
+                <h2>About Me</h2>
+                <p>
+                    Hello! I am a final-year Computer Science student passionate about web technologies and software development. 
+                    I enjoy building projects, learning new frameworks, and collaborating on academic and personal ventures. 
+                    In my free time, I love solving coding challenges in java.
+                </p>
+            </article>
+        </section>
+    
+    </body>
+    </html>
+
+```
 ## Output:
 
 ## Result:
